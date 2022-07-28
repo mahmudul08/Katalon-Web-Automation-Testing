@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit your account information</name>
+   <tag></tag>
+   <elementGuidId>e83b34fe-39a9-4dab-a387-6191511705e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#content > ul.list-unstyled > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb14fffc-f0bd-4cd0-91eb-8adff4d0fdd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://tutorialsninja.com/demo/index.php?route=account/edit</value>
+      <webElementGuid>f93caacb-9ba1-444f-8ce8-8115eb80259b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit your account information</value>
+      <webElementGuid>e5bd3463-9dba-4125-b318-9bb006cffe55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ul[@class=&quot;list-unstyled&quot;]/li[1]/a[1]</value>
+      <webElementGuid>c0ecc772-4ca9-4a61-9182-cd8c6c359efc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/ul/li/a</value>
+      <webElementGuid>e7b9a77d-0bdb-4cfa-bd35-20f24906fd5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit your account information')]</value>
+      <webElementGuid>15dae6e7-a6d4-465c-8031-c92e943d86fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[4]/following::a[1]</value>
+      <webElementGuid>7f2a2755-6508-44d6-b455-e707e7df28f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::a[1]</value>
+      <webElementGuid>21591166-88e2-47e5-a716-f3d425aa4d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change your password'])[1]/preceding::a[1]</value>
+      <webElementGuid>d75c9044-f047-43ba-954a-8589f6a1e92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify your address book entries'])[1]/preceding::a[2]</value>
+      <webElementGuid>85b5ca22-d9f3-4c81-9517-1ff4f8e9a180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit your account information']/parent::*</value>
+      <webElementGuid>16e5706c-9a3a-40f5-b8a0-faa6a561c2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://tutorialsninja.com/demo/index.php?route=account/edit']</value>
+      <webElementGuid>2286646a-397d-4855-bd5f-48b0d42e16aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li/a</value>
+      <webElementGuid>18a12904-e109-48a3-b115-b6aa5b037737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://tutorialsninja.com/demo/index.php?route=account/edit' and (text() = 'Edit your account information' or . = 'Edit your account information')]</value>
+      <webElementGuid>81207e53-ffc5-4ca7-b843-cc228c8b183d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

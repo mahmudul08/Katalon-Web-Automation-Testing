@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Register for an affiliate account</name>
+   <tag></tag>
+   <elementGuidId>4f9cdfa0-0f59-4d75-830e-2f88ab577f11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/ul[3]/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17fe1701-9d1c-4666-8315-4e8a9b1a77ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://tutorialsninja.com/demo/index.php?route=account/affiliate/add</value>
+      <webElementGuid>49e4e8e6-fbda-4283-9fe7-98fdb9b3c868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register for an affiliate account</value>
+      <webElementGuid>46f8135a-2def-4771-9f13-4e51f1399c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ul[@class=&quot;list-unstyled&quot;]/li[1]/a[1]</value>
+      <webElementGuid>b54d0cd1-3b1b-43df-8341-7381f6d48a10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/ul[3]/li/a</value>
+      <webElementGuid>40ae5bf4-2b73-4b8a-ad2f-0b6e528d0f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Register for an affiliate account')]</value>
+      <webElementGuid>49b99607-ec7a-4023-85a0-4d67a7c2b6a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Affiliate Account'])[1]/following::a[1]</value>
+      <webElementGuid>487b22d4-1a7d-4466-9956-afae8cc23347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurring payments'])[1]/following::a[1]</value>
+      <webElementGuid>d611e7cf-0d74-486b-b1c0-996102617f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::a[1]</value>
+      <webElementGuid>fbf5a065-443f-48a4-a0e3-842245edf889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe / unsubscribe to newsletter'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff142752-adca-41a5-a4cd-6d6c68d7cebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register for an affiliate account']/parent::*</value>
+      <webElementGuid>b63289a5-ef29-4ea9-94c0-7163f68fe319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://tutorialsninja.com/demo/index.php?route=account/affiliate/add']</value>
+      <webElementGuid>6b005e8c-1f94-4731-bd85-04bd8825d316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul[3]/li/a</value>
+      <webElementGuid>47e06f4e-32ea-4ca2-8b27-eea15d7edd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://tutorialsninja.com/demo/index.php?route=account/affiliate/add' and (text() = 'Register for an affiliate account' or . = 'Register for an affiliate account')]</value>
+      <webElementGuid>edc253af-35b0-4d12-8be7-4a6674a33369</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

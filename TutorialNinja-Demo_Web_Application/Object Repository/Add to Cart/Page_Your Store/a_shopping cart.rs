@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_shopping cart</name>
+   <tag></tag>
+   <elementGuidId>7a600576-3d5c-46f9-aba0-0eb5773a176a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='common-home']/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>66b3f119-54f4-4ed1-9706-d20585aeda10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://tutorialsninja.com/demo/index.php?route=checkout/cart</value>
+      <webElementGuid>fc759a49-be1f-4033-a6a1-dbe020ad5617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>shopping cart</value>
+      <webElementGuid>53096214-51d8-43c6-aa33-b15157d2c92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;common-home&quot;)/div[@class=&quot;alert alert-success alert-dismissible&quot;]/a[2]</value>
+      <webElementGuid>8b980ca9-0236-4945-88d1-f9b8ed5fd53a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='common-home']/div/a[2]</value>
+      <webElementGuid>4766f0bb-219c-433a-be3d-b396bb5c8358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'shopping cart')]</value>
+      <webElementGuid>6e60bddc-09af-46cf-b66f-7834f9c871c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MacBook'])[2]/following::a[1]</value>
+      <webElementGuid>48aa6a6d-5a98-4cd2-aedd-0f02f588b13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
+      <webElementGuid>2f1dd586-f3c0-4368-b944-9d2b81c1742a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured'])[1]/preceding::a[3]</value>
+      <webElementGuid>1350bc52-13a8-4110-b077-ad4fff96d422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='shopping cart']/parent::*</value>
+      <webElementGuid>f4faa118-bcd0-40d7-b711-dc61488ee54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://tutorialsninja.com/demo/index.php?route=checkout/cart'])[3]</value>
+      <webElementGuid>b60660c4-0c40-4817-8711-cf4e84ba40f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a[2]</value>
+      <webElementGuid>5ed72018-69de-402d-b53c-6426dacd1884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://tutorialsninja.com/demo/index.php?route=checkout/cart' and (text() = 'shopping cart' or . = 'shopping cart')]</value>
+      <webElementGuid>3ed49143-99ff-44ca-8729-736de74580f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Order Date_fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>216e3ea0-a1dc-414b-a5b2-551e1adc9148</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/form/fieldset/div[6]/div/div/span/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ec1f3b86-839d-49f0-8fe2-99aaf1971f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>5185e883-2453-42d8-aea8-cd0789fef411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/form[@class=&quot;form-horizontal&quot;]/fieldset[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-3&quot;]/div[@class=&quot;input-group date&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default&quot;]/i[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>353c90b5-9334-44eb-a4c3-71f3aebe84bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/form/fieldset/div[6]/div/div/span/button/i</value>
+      <webElementGuid>2a7b3e04-1c00-4bb2-8fef-9fce2b77d7a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/span/button/i</value>
+      <webElementGuid>75a7ff21-addf-4265-90f7-669f7a4069c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
