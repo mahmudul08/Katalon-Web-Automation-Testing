@@ -1,0 +1,71 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Rokomari.com,Chrome 104.0.5112.79,Login Functionality check,,8/4/2022 19:04,8/4/2022 19:06,1m - 37.602s,PASSED
+,,,,,,,
+Test Cases/Login Functionality/All Valid Credential,Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,17.004s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,2.854s,PASSED
+"navigateToUrl(""https://www.rokomari.com/login"")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,5.592s,PASSED
+maximizeWindow(),Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.168s,PASSED
+"setText(findTestObject(""Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username""), ""mail.mahmudul08@gmail.com"")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.882s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password""), ""RigbBhfdqOAmcnD5/VDo9Q=="")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.936s,PASSED
+"click(findTestObject(""Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In""))",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,4.614s,PASSED
+"click(findTestObject(""Object Repository/All Valid Credential/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan""))",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.589s,PASSED
+closeBrowser(),Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.773s,PASSED
+,,,,,,,
+Test Cases/Login Functionality/Invalid Credential,Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,13.257s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,1.254s,PASSED
+"navigateToUrl(""https://www.rokomari.com/login"")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,5.628s,PASSED
+maximizeWindow(),Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.149s,PASSED
+"setText(findTestObject(""Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username""), ""mahmudul819@gmail.com"")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,1.251s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password""), ""RigbBhfdqODtN+meWBvanA=="")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.469s,PASSED
+"click(findTestObject(""Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In""))",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,1.853s,PASSED
+"click(findTestObject(""Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/p_Wrong email or phone mahmudul819gmail.com""))",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,1.512s,PASSED
+closeBrowser(),Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,0.711s,PASSED
+,,,,,,,
+Test Cases/Login Functionality/Verify Forgotten Password link is available in the Login page and is working,Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:05,10.032s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:04,1.229s,PASSED
+"navigateToUrl(""https://www.rokomari.com/login"")",Chrome 104.0.5112.79,,,8/4/2022 19:04,8/4/2022 19:05,5.009s,PASSED
+maximizeWindow(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.150s,PASSED
+"click(findTestObject(""Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Login To Rokomari  Rokomari.com/a_Forgot Password""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.522s,PASSED
+"click(findTestObject(""Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/input_Zimbabwe(263)_email_phone""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.548s,PASSED
+"click(findTestObject(""Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/button_Send Recovery Code""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.430s,PASSED
+closeBrowser(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.704s,PASSED
+,,,,,,,
+Test Cases/Login Functionality/Verify logging into the Application using invalid email address and valid Password,Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,14.608s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.219s,PASSED
+"navigateToUrl(""https://www.rokomari.com/login"")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,4.971s,PASSED
+maximizeWindow(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.142s,PASSED
+"setText(findTestObject(""Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username""), ""mmahmudulh819@gmail.com"")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.994s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password""), ""RigbBhfdqOAmcnD5/VDo9Q=="")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.476s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,3.034s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong email or phone mmahmudulh819gmail.com""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.646s,PASSED
+closeBrowser(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.697s,PASSED
+,,,,,,,
+Test Cases/Login Functionality/Verify logging into the Application using valid email address and invalid Password,Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,13.429s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.256s,PASSED
+"navigateToUrl(""https://www.rokomari.com/login"")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,6.089s,PASSED
+maximizeWindow(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.141s,PASSED
+"setText(findTestObject(""Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username""), ""mail.mahmudul08@gmail.com"")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.822s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password""), ""RigbBhfdqODKcAsiUrg+1Q=="")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.462s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.845s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong emailphone or password""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.619s,PASSED
+closeBrowser(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.701s,PASSED
+,,,,,,,
+Test Cases/Login Functionality/Verify logging into the Application without providing any credentials,Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,10.053s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.248s,PASSED
+"navigateToUrl(""https://www.rokomari.com/login"")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,5.001s,PASSED
+maximizeWindow(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.148s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.479s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/button_Sign In""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.419s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.309s,PASSED
+"click(findTestObject(""Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.376s,PASSED
+closeBrowser(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.681s,PASSED
+,,,,,,,
+Test Cases/Login Functionality/Verify login into the Application using Keyboard keys (Tab and Enter),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:06,18.796s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,1.233s,PASSED
+"navigateToUrl(""https://www.rokomari.com/login"")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,8.998s,PASSED
+maximizeWindow(),Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.140s,PASSED
+"setText(findTestObject(""Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username""), ""mail.mahmudul08@gmail.com"")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.834s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Password_j_password""), ""RigbBhfdqOAmcnD5/VDo9Q=="")",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:05,0.672s,PASSED
+"click(findTestObject(""Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/button_Sign In""))",Chrome 104.0.5112.79,,,8/4/2022 19:05,8/4/2022 19:06,4.318s,PASSED
+"click(findTestObject(""Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan""))",Chrome 104.0.5112.79,,,8/4/2022 19:06,8/4/2022 19:06,1.408s,PASSED
+closeBrowser(),Chrome 104.0.5112.79,,,8/4/2022 19:06,8/4/2022 19:06,0.733s,PASSED

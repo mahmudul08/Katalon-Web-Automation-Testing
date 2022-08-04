@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Rokomari.com" time="97.602" tests="7" failures="0" errors="0">
+   <testsuite name="Rokomari.com" tests="7" failures="0" errors="0" time="97.602" skipped="0" timestamp="2022-08-04 19:04:25" hostname="Mahmudul Hasan - DESKTOP-L5S1NA7" id="Test Suites/Rokomari.com">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Mahmudul Hasan\\Katalon Studio\\My First Web UI Project\\Reports\\20220804_190417\\Rokomari.com\\20220804_190417"/>
+         <property name="logFiles" value="C:\\Users\\Mahmudul Hasan\\Katalon Studio\\My First Web UI Project\\Reports\\20220804_190417\\Rokomari.com\\20220804_190417\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Mahmudul Hasan - DESKTOP-L5S1NA7"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 104.0.5112.79"/>
+         <property name="hostAddress" value="192.168.204.1"/>
+         <property name="sessionId" value="395de8c2073dff46894316b70bf18733"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login Functionality/All Valid Credential" time="17.004" classname="Test Cases/Login Functionality/All Valid Credential" status="PASSED">
+         <system-out><![CDATA[2022-08-04 19:04:25 - [TEST_CASE][PASSED] - Test Cases/Login Functionality/All Valid Credential: Test Cases/Login Functionality/All Valid Credential
+
+2022-08-04 19:04:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-04 19:04:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-04 19:04:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-04 19:04:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-04 19:04:29 - [TEST_STEP][PASSED] - navigateToUrl("https://www.rokomari.com/login"): Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:04:34 - [MESSAGE][PASSED] - Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:04:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-04 19:04:35 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-04 19:04:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username"), "mail.mahmudul08@gmail.com"): Text 'mail.mahmudul08@gmail.com' is set on object 'Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:04:35 - [MESSAGE][PASSED] - Text 'mail.mahmudul08@gmail.com' is set on object 'Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:04:35 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password"), "RigbBhfdqOAmcnD5/VDo9Q=="): Text ****** has been set on object 'Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:04:36 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:04:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In")): Object: 'Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:04:41 - [MESSAGE][PASSED] - Object: 'Object Repository/All Valid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:04:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/All Valid Credential/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan")): Object: 'Object Repository/All Valid Credential/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan' is clicked on
+
+2022-08-04 19:04:42 - [MESSAGE][PASSED] - Object: 'Object Repository/All Valid Credential/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan' is clicked on
+
+2022-08-04 19:04:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-04 19:04:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Functionality/Invalid Credential" time="13.257" classname="Test Cases/Login Functionality/Invalid Credential" status="PASSED">
+         <system-out><![CDATA[2022-08-04 19:04:42 - [TEST_CASE][PASSED] - Test Cases/Login Functionality/Invalid Credential: Test Cases/Login Functionality/Invalid Credential
+
+2022-08-04 19:04:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-04 19:04:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-04 19:04:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-04 19:04:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-04 19:04:44 - [TEST_STEP][PASSED] - navigateToUrl("https://www.rokomari.com/login"): Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:04:50 - [MESSAGE][PASSED] - Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:04:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-04 19:04:50 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-04 19:04:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username"), "mahmudul819@gmail.com"): Text 'mahmudul819@gmail.com' is set on object 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:04:51 - [MESSAGE][PASSED] - Text 'mahmudul819@gmail.com' is set on object 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:04:51 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password"), "RigbBhfdqODtN+meWBvanA=="): Text ****** has been set on object 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:04:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:04:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In")): Object: 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:04:53 - [MESSAGE][PASSED] - Object: 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:04:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/p_Wrong email or phone mahmudul819gmail.com")): Object: 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/p_Wrong email or phone mahmudul819gmail.com' is clicked on
+
+2022-08-04 19:04:55 - [MESSAGE][PASSED] - Object: 'Object Repository/All Invalid Credential/Page_Login To Rokomari  Rokomari.com/p_Wrong email or phone mahmudul819gmail.com' is clicked on
+
+2022-08-04 19:04:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-04 19:04:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Functionality/Verify Forgotten Password link is available in the Login page and is working" time="10.032" classname="Test Cases/Login Functionality/Verify Forgotten Password link is available in the Login page and is working" status="PASSED">
+         <system-out><![CDATA[2022-08-04 19:04:56 - [TEST_CASE][PASSED] - Test Cases/Login Functionality/Verify Forgotten Password link is available in the Login page and is working: Test Cases/Login Functionality/Verify Forgotten Password link is available in the Login page and is working
+
+2022-08-04 19:04:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-04 19:04:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-04 19:04:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-04 19:04:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-04 19:04:57 - [TEST_STEP][PASSED] - navigateToUrl("https://www.rokomari.com/login"): Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:02 - [MESSAGE][PASSED] - Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:02 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-04 19:05:02 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-04 19:05:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Login To Rokomari  Rokomari.com/a_Forgot Password")): Object: 'Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Login To Rokomari  Rokomari.com/a_Forgot Password' is clicked on
+
+2022-08-04 19:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Login To Rokomari  Rokomari.com/a_Forgot Password' is clicked on
+
+2022-08-04 19:05:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/input_Zimbabwe(263)_email_phone")): Object: 'Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/input_Zimbabwe(263)_email_phone' is clicked on
+
+2022-08-04 19:05:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/input_Zimbabwe(263)_email_phone' is clicked on
+
+2022-08-04 19:05:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/button_Send Recovery Code")): Object: 'Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/button_Send Recovery Code' is clicked on
+
+2022-08-04 19:05:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify Forgotten Password link is available in the Login page and is working/Page_Forgot Password  Rokomari.com/button_Send Recovery Code' is clicked on
+
+2022-08-04 19:05:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-04 19:05:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Functionality/Verify logging into the Application using invalid email address and valid Password" time="14.608" classname="Test Cases/Login Functionality/Verify logging into the Application using invalid email address and valid Password" status="PASSED">
+         <system-out><![CDATA[2022-08-04 19:05:06 - [TEST_CASE][PASSED] - Test Cases/Login Functionality/Verify logging into the Application using invalid email address and valid Password: Test Cases/Login Functionality/Verify logging into the Application using invalid email address and valid Password
+
+2022-08-04 19:05:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-04 19:05:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-04 19:05:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-04 19:05:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-04 19:05:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.rokomari.com/login"): Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:12 - [MESSAGE][PASSED] - Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-04 19:05:12 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-04 19:05:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username"), "mmahmudulh819@gmail.com"): Text 'mmahmudulh819@gmail.com' is set on object 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:05:14 - [MESSAGE][PASSED] - Text 'mmahmudulh819@gmail.com' is set on object 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:05:14 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password"), "RigbBhfdqOAmcnD5/VDo9Q=="): Text ****** has been set on object 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:05:15 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:05:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In")): Object: 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:05:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:05:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong email or phone mmahmudulh819gmail.com")): Object: 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong email or phone mmahmudulh819gmail.com' is clicked on
+
+2022-08-04 19:05:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application using invalid email address and valid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong email or phone mmahmudulh819gmail.com' is clicked on
+
+2022-08-04 19:05:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-04 19:05:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Functionality/Verify logging into the Application using valid email address and invalid Password" time="13.429" classname="Test Cases/Login Functionality/Verify logging into the Application using valid email address and invalid Password" status="PASSED">
+         <system-out><![CDATA[2022-08-04 19:05:20 - [TEST_CASE][PASSED] - Test Cases/Login Functionality/Verify logging into the Application using valid email address and invalid Password: Test Cases/Login Functionality/Verify logging into the Application using valid email address and invalid Password
+
+2022-08-04 19:05:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-04 19:05:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-04 19:05:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-04 19:05:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-04 19:05:22 - [TEST_STEP][PASSED] - navigateToUrl("https://www.rokomari.com/login"): Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:28 - [MESSAGE][PASSED] - Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-04 19:05:28 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-04 19:05:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username"), "mail.mahmudul08@gmail.com"): Text 'mail.mahmudul08@gmail.com' is set on object 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:05:29 - [MESSAGE][PASSED] - Text 'mail.mahmudul08@gmail.com' is set on object 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:05:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password"), "RigbBhfdqODKcAsiUrg+1Q=="): Text ****** has been set on object 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:05:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:05:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In")): Object: 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:05:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:05:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong emailphone or password")): Object: 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong emailphone or password' is clicked on
+
+2022-08-04 19:05:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application using valid email address and invalid Password/Page_Login To Rokomari  Rokomari.com/div_Wrong emailphone or password' is clicked on
+
+2022-08-04 19:05:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-04 19:05:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Functionality/Verify logging into the Application without providing any credentials" time="10.053" classname="Test Cases/Login Functionality/Verify logging into the Application without providing any credentials" status="PASSED">
+         <system-out><![CDATA[2022-08-04 19:05:34 - [TEST_CASE][PASSED] - Test Cases/Login Functionality/Verify logging into the Application without providing any credentials: Test Cases/Login Functionality/Verify logging into the Application without providing any credentials
+
+2022-08-04 19:05:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-04 19:05:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-04 19:05:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-04 19:05:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-04 19:05:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.rokomari.com/login"): Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:40 - [MESSAGE][PASSED] - Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:40 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-04 19:05:41 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-04 19:05:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username")): Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username' is clicked on
+
+2022-08-04 19:05:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username' is clicked on
+
+2022-08-04 19:05:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/button_Sign In")): Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:05:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:05:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required")): Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required' is clicked on
+
+2022-08-04 19:05:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required' is clicked on
+
+2022-08-04 19:05:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required")): Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required' is clicked on
+
+2022-08-04 19:05:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify logging into the Application without providing any credentials/Page_Login To Rokomari  Rokomari.com/p_This field is required' is clicked on
+
+2022-08-04 19:05:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-04 19:05:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Functionality/Verify login into the Application using Keyboard keys (Tab and Enter)" time="18.796" classname="Test Cases/Login Functionality/Verify login into the Application using Keyboard keys (Tab and Enter)" status="PASSED">
+         <system-out><![CDATA[2022-08-04 19:05:44 - [TEST_CASE][PASSED] - Test Cases/Login Functionality/Verify login into the Application using Keyboard keys (Tab and Enter): Test Cases/Login Functionality/Verify login into the Application using Keyboard keys (Tab and Enter)
+
+2022-08-04 19:05:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-04 19:05:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-04 19:05:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-04 19:05:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-04 19:05:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.rokomari.com/login"): Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:55 - [MESSAGE][PASSED] - Navigate to 'https://www.rokomari.com/login' successfully
+
+2022-08-04 19:05:55 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-04 19:05:55 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-04 19:05:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username"), "mail.mahmudul08@gmail.com"): Text 'mail.mahmudul08@gmail.com' is set on object 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:05:55 - [MESSAGE][PASSED] - Text 'mail.mahmudul08@gmail.com' is set on object 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Zimbabwe(263)_j_username'
+
+2022-08-04 19:05:55 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Password_j_password"), "RigbBhfdqOAmcnD5/VDo9Q=="): Text ****** has been set on object 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:05:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/input_Password_j_password'
+
+2022-08-04 19:05:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/button_Sign In")): Object: 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:06:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Login To Rokomari  Rokomari.com/button_Sign In' is clicked on
+
+2022-08-04 19:06:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan")): Object: 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan' is clicked on
+
+2022-08-04 19:06:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Verify login into the Application using Keyboard keys (Tab and Enter)/Page_Buy Book Online - Best Online Book Sho_4de37f/span_Md Mahmudul Hasan' is clicked on
+
+2022-08-04 19:06:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-04 19:06:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-04 19:04:25 - [TEST_SUITE][PASSED] - Rokomari.com: Test Cases/Login Functionality/Verify login into the Application using Keyboard keys (Tab and Enter)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
